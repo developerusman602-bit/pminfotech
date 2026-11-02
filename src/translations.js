@@ -7,6 +7,7 @@ export const translations = {
       scopeOfWork: "Scope of Work",
       ourProjects: "Our Projects",
       contactUs: "Contact Us",
+      companyProfile: "Company Profile"
     },
     hero: {
       title: "PMinfotech",
@@ -42,6 +43,7 @@ export const translations = {
       scopeOfWork: "نطاق العمل",
       ourProjects: "مشاريعنا",
       contactUs: "اتصل بنا",
+      companyProfile: "ملف الشركة"
     },
     hero: {
       title: "PMinfotech",

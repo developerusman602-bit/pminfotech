@@ -10,7 +10,9 @@ const sections = [
   { id: "cm-vs-pm", key: "cmVsPm" },
   { id: "scope-of-work", key: "scopeOfWork" },
   { id: "our-projects", key: "ourProjects" },
+  { id: "company-profile", key: "companyProfile" },
   { id: "contact-us", key: "contactUs" },
+  
 ];
 
 export default function Navbar() {
